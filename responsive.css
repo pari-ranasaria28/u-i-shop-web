@@ -1,0 +1,10 @@
+#navBar{
+    flex-direction: column;
+    position: sticky;
+}
+#services{
+    flex-direction: column;
+}
+.clients_section{
+    overflow: hidden;
+}
